@@ -23,6 +23,8 @@ data/external/
 # Ignore environment files
 .env
 *.env
+config.py
+
 
 # Ignore model files and large outputs
 *.pkl
